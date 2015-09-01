@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[en-x-demo1:home|Door43 (en-x-demo1)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-en-x-demo1|d43-en-x-demo1 repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-en-x-demo1/archive/master.zip|d43-en-x-demo1.zip]]
+
+**Recent Changes**
+{{changes>ns = en-x-demo1}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/en-x-demo1|Ethnologue data]]
+
